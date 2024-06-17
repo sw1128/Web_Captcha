@@ -28,10 +28,20 @@
 
 ## 作者想说
 
-如果觉得好用就给个好评吧 🙏
+个人维护开源不易
 
-打个赏也可以（祝老板发财）❤️ 打赏请备注QQ号和昵称，我会加入到赞助列表中并展示在QQ频道。
+如果觉得本脚本对你有帮助就给个好评吧 🙏
 
-<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/bjut_net5.jpg" width="40%" height="40%" />
+想集资给我买瓶防脱洗发液，那么下面的赞赏码可以扫一扫啦 ❤️ 
+
+（打赏请备注QQ号和昵称，我会加入到赞助列表中并展示在QQ频道）
+
+微信：
+
+<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/donate_code.jpg" width="20%" height="20%" />
+
+支付宝：
+
+<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/donate_code_zfb.jpg" width="20%" height="20%" />
 
 
