@@ -1,4 +1,10 @@
-# 自动识别填充网页验证码
+<div align="center">
+ <h1 align="center">自动识别填充网页验证码</h1>
+ 
+ ![](https://img.shields.io/badge/Author-sw1128-red) 
+ ![](https://img.shields.io/github/forks/sw1128/Web_Captcha) 
+ ![](https://img.shields.io/github/stars/sw1128/Web_Captcha?color=green)
+</div>
 
 ## 安装方法
 
