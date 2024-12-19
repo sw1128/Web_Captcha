@@ -28,9 +28,7 @@
 
 为防止接口被滥用，过于频繁的识别会触发限流策略封禁IP，自助解封IP请加QQ群查看群公告👇
 
-交流反馈群：764904163 
-
-[点击加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=EUUZ_tp0HJdv-MxKS413ENz87rAW9e0C&jump_from=webapi&authKey=Xk/cSYAZ+07YCve6XZlZZoS5g5V9ujD6Cx6dn7P4C3oeODdV7izorz3RhZThwtAt)
+交流反馈群：748510828
 
 ## 作者想说
 
