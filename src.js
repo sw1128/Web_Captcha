@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         自动识别填充网页验证码
 // @namespace    http://tampermonkey.net/
-// @version      0.5.7
+// @version      0.5.8
 // @description  自动识别填写大部分网站的数英验证码
 // @author       lcymzzZ
 // @license      GPL Licence
@@ -51,9 +51,25 @@
     GM_registerMenuCommand('清除当前页面规则', delRule);
     GM_registerMenuCommand('管理网页黑名单', manageBlackList);
     GM_registerMenuCommand('云码Token（算术验证码专用）', saveToken)
-    GM_registerMenuCommand('交流/反馈群：764904163', ()=>{window.open("https://jq.qq.com/?_wv=1027&k=9OATqk9I")});
+    GM_registerMenuCommand('加入交流/反馈群', getQQGroup);
 
     GM_setValue("preCode", "");
+
+    function getQQGroup() {
+        GM_xmlhttpRequest({
+            method: "GET",
+            url: queryUrl + "getQQGroup",
+            onload: function(response) {
+                try {
+                    var qqGroup = response.responseText;
+                    alert(qqGroup);
+                }
+                catch(err){
+                    return "群号获取失败";
+                }
+            }
+        });
+    }
 
     function saveToken(){
         var token = prompt(`帮助文档：https://docs.qq.com/doc/DWkhma0dsb1BxdEtU`, "输入Token");
