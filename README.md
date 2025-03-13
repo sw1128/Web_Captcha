@@ -6,6 +6,8 @@
  ![](https://img.shields.io/github/stars/sw1128/Web_Captcha?color=green)
 </div>
 
+## 由于服务器到期，本项目停止运行。
+
 ## 安装方法
 
 【油猴 · TamperMonkey】[插件安装地址](https://greasyfork.org/zh-CN/scripts/459260)
