@@ -12,6 +12,8 @@
 
 试用版下载地址：https://wwuw.lanzoub.com/iWLG32zcaubg
 
+<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/localcaptcha_trial.png" width="60%" height="60%" />
+
 ## 安装方法
 
 【油猴 · TamperMonkey】[插件安装地址](https://greasyfork.org/zh-CN/scripts/459260)
