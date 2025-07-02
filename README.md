@@ -10,7 +10,7 @@
 
 2024/12/26 新增本地部署软件，完全本地化，不限流不封IP，永久可用（部署软件为付费，请根据个人需要决定使用）。
 
-试用版下载地址：https://wwuw.lanzoub.com/iWLG32zcaubg
+试用版下载地址：https://wwuw.lanzoub.com/iNoSt2zl205g
 
 <img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/localcaptcha_trial.png" width="60%" height="60%" />
 
