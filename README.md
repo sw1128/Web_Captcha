@@ -6,8 +6,6 @@
  ![](https://img.shields.io/github/stars/sw1128/Web_Captcha?color=green)
 </div>
 
-## 由于服务器到期，本项目停止运行。
-
 2024/12/26 新增本地部署软件，完全本地化，不限流不封IP，永久可用（部署软件为付费，请根据个人需要决定使用）。
 
 试用版下载地址：https://wwuw.lanzoub.com/iNoSt2zl205g
