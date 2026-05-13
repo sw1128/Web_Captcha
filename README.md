@@ -6,13 +6,7 @@
  ![](https://img.shields.io/github/stars/sw1128/Web_Captcha?color=green)
 </div>
 
-2026/03/18 服务器到期，脚本已失效。若需要本地部署软件，请加QQ群：748510828
-
-2024/12/26 新增本地部署软件，功能一致，完全本地化，不限流不封IP，永久可用（部署软件为付费，请根据个人需要决定使用）。
-
-试用版下载地址：https://wwuw.lanzoub.com/iNoSt2zl205g
-
-<img src="https://zwhy-1310134253.cos.ap-beijing.myqcloud.com/localcaptcha_trial.png" width="60%" height="60%" />
+2026/03/18 服务器到期，脚本已失效。
 
 ## 安装方法
 
